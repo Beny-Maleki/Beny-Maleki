@@ -23,6 +23,7 @@
 <details>
   <summary><b>:computer: &nbsp;Main tech knowledge</b></summary>
   <br/>
+  
 ![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)&nbsp;
 ![Cpp](https://img.shields.io/badge/C++-00599C.svg?&style=flat&logo=c%2B%2B&logoColor=white)&nbsp;
 ![Kotlin](https://img.shields.io/badge/KOTLIN-0095D5.svg?&style=flat&logo=kotlin&logoColor=white)&nbsp;
@@ -66,6 +67,7 @@ blockchain, cryptocurrencies, cryptography, bitcoin, ethereum
 <details>
   <summary><b>:brain: &nbsp;Other knowledge, always learning</b></summary>
   <br/>
+  
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
   ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)&nbsp;
   ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
