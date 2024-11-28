@@ -3,8 +3,7 @@
 ### :space_invader: &nbsp;About Me
 
 &nbsp;&nbsp;&nbsp; :technologist: &nbsp;Currently Studying B.Sc. in Computer Engineering @ [Sharif University of Technology](https://en.sharif.ir/). \
-&nbsp;&nbsp;&nbsp; :seedling: &nbsp;Love for Science and Innovation.\
-&nbsp;&nbsp;&nbsp; :purple_heart: &nbsp;Passionate with Problem Solving.\
+&nbsp;&nbsp;&nbsp; :purple_heart: &nbsp;Love for Science, Innovation and Problem Solving .\
 &nbsp;&nbsp;&nbsp; :robot: &nbsp;Interested in Anthropomorphically Intelligent Agents.\
 &nbsp;&nbsp;&nbsp; :hammer_and_wrench: &nbsp;Experience of Software Development; Back-end \& Front-end @ [Smartech](https://smartech.ir/en).
 
