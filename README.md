@@ -2,11 +2,11 @@
 
 ### :space_invader: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp; :technologist: &nbsp;Currently Studying B.Sc. in Computer Engineering at [Sharif University of Technology](https://en.sharif.ir/). \
-&nbsp;&nbsp;&nbsp; :seedling: &nbsp;Love for science and innovation.\
-&nbsp;&nbsp;&nbsp; :heartbeat: &nbsp;Passionate with problem solving.\
-&nbsp;&nbsp;&nbsp; :writing_hand: &nbsp;Researching to create more intelligent AI systems.\
-&nbsp;&nbsp;&nbsp; :hammer_and_wrench: &nbsp;Experience of software development both as a back-end and a front-end developer at [Smartech](https://smartech.ir/en).
+&nbsp;&nbsp;&nbsp; :technologist: &nbsp;Currently Studying B.Sc. in Computer Engineering @ [Sharif University of Technology](https://en.sharif.ir/). \
+&nbsp;&nbsp;&nbsp; :seedling: &nbsp;Love for Science and Innovation.\
+&nbsp;&nbsp;&nbsp; :purple_heart: &nbsp;Passionate with Problem Solving.\
+&nbsp;&nbsp;&nbsp; :robot: &nbsp;Interested in Anthropomorphically Intelligent Agents.\
+&nbsp;&nbsp;&nbsp; :hammer_and_wrench: &nbsp;Experience of Software Development; Back-end \& Front-end @ [Smartech](https://smartech.ir/en).
 
 <p align="center">
   <a href="mailto:benyaminmaleki81@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -21,72 +21,48 @@
 <hr/>
 
 <details>
-  <summary><b>:computer: &nbsp;Main tech knowledge</b></summary>
+  <summary><b>:computer: &nbsp;Research-related Technical Skills</b></summary>
   <br/>
   
-![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)&nbsp;
-![Cpp](https://img.shields.io/badge/C++-00599C.svg?&style=flat&logo=c%2B%2B&logoColor=white)&nbsp;
-![Kotlin](https://img.shields.io/badge/KOTLIN-0095D5.svg?&style=flat&logo=kotlin&logoColor=white)&nbsp;
-![Java](https://img.shields.io/badge/JAVA-007396.svg?&style=flat&logo=java&logoColor=white)&nbsp;
-![Spring](https://img.shields.io/badge/SPRING-6DB33F.svg?&style=flat&logo=spring&logoColor=white)&nbsp;
-![Hibernate](https://img.shields.io/badge/HIBERNATE-121011.svg?&style=flat&logo=red-hat&logoColor=white)&nbsp;\
-![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white)&nbsp;
-![GitLab](https://img.shields.io/badge/GITLAB-%23181717.svg?&style=flat&logo=gitlab&logoColor=white)&nbsp;
-![Docker](https://img.shields.io/badge/DOCKER-2496ED.svg?&style=flat&logo=docker&logoColor=white)&nbsp;
-![Postgres](https://img.shields.io/badge/POSTGRES-%23316192.svg?&style=flat&logo=postgresql&logoColor=white)&nbsp;
-![Maven](https://img.shields.io/badge/MAVEN-C71A36.svg?&style=flat&logo=apache-maven)&nbsp;
+  ![PyTorch](https://img.shields.io/badge/PYTORCH-EE4C2C.svg?&style=flat&logo=pytorch&logoColor=white)&nbsp;
+  ![PyTorch3D](https://img.shields.io/badge/PYTORCH3D-EE4C2C.svg?&style=flat&logo=pytorch&logoColor=white)&nbsp;
+  ![Pandas](https://img.shields.io/badge/PANDAS-150458.svg?&style=flat&logo=pandas&logoColor=white)&nbsp;
+  ![NumPy](https://img.shields.io/badge/NUMPY-013243.svg?&style=flat&logo=numpy&logoColor=white)&nbsp;
+  ![Hugging Face](https://img.shields.io/badge/HUGGING_FACE-FFD21E.svg?&style=flat&logo=huggingface&logoColor=black)&nbsp;
+  ![DSPy](https://img.shields.io/badge/DSPY-FF6F61.svg?&style=flat&logo=python&logoColor=white)&nbsp;
+  ![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)&nbsp;
 
-<!-- 
-Java, JSF, Primefaces, Angular, Spring, Springboot, JPA/Hibernate. 
-Flutter, GetX, BLoC, MobX.
-GitHub, GitLab, Docker, Ansible
-Kotlin, Firebase.
-Ant, Maven, Gradle, 
-VSCode, Eclipse, IntelliJ IDEA.
-HTML, CSS, JavaScript, TypeScript.
-postgresql, pgadmin, mysql, sqlite.
-TDD, BDD, DDD
-clean architecture, hexagonal architecture, onion architecture, mvc, mvvm.
-linux
--->
 </details>
-
-<!-- 
-jquery, sass
-nestjs, nodejs, redis, nginx,
-rest, graphql, grpc
-apache kafka,
-google cloud plataform, google app engine, aws
-oracle, mariadb, mongodb, 
-Kubernates, puppet, github actions
-python, c, cpp, arduino
-php, photoshop
-blockchain, cryptocurrencies, cryptography, bitcoin, ethereum 
--->
 
 <details>
-  <summary><b>:brain: &nbsp;Other knowledge, always learning</b></summary>
+  <summary><b>:brain: &nbsp;Other Technical Skills</b></summary>
   <br/>
-  
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
-  ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)&nbsp;
+
+  ![Kotlin](https://img.shields.io/badge/KOTLIN-0095D5.svg?&style=flat&logo=kotlin&logoColor=white)&nbsp;
+  ![Java](https://img.shields.io/badge/JAVA-007396.svg?&style=flat&logo=java&logoColor=white)&nbsp;
+  ![Spring](https://img.shields.io/badge/SPRING-6DB33F.svg?&style=flat&logo=spring&logoColor=white)&nbsp;
+  ![Hibernate](https://img.shields.io/badge/HIBERNATE-121011.svg?&style=flat&logo=hibernate&logoColor=white)&nbsp;
+  ![Maven](https://img.shields.io/badge/MAVEN-C71A36.svg?&style=flat&logo=apache-maven)&nbsp; \
+  ![React](https://img.shields.io/badge/REACT-61DAFB.svg?&style=flat&logo=react&logoColor=black)&nbsp;
+  ![NodeJS](https://img.shields.io/badge/NODEJS-339933.svg?&style=flat&logo=node.js&logoColor=white)&nbsp;
   ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
+  ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)&nbsp;\
   ![Git](https://img.shields.io/badge/GIT-%23F05033.svg?&style=flat&logo=git&logoColor=white)&nbsp;
-  ![NodeJS](https://img.shields.io/badge/NODEJS-339933.svg?&style=flat&logo=node.js&logoColor=white)&nbsp;\
+  ![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white)&nbsp;
+  ![GitLab](https://img.shields.io/badge/GITLAB-%23181717.svg?&style=flat&logo=gitlab&logoColor=white)&nbsp;
+  ![Docker](https://img.shields.io/badge/DOCKER-2496ED.svg?&style=flat&logo=docker&logoColor=white)&nbsp;\
   ![Redis](https://img.shields.io/badge/REDIS-DC382D.svg?&style=flat&logo=redis&logoColor=white)&nbsp;
-  ![Kafka](https://img.shields.io/badge/APACHA%20KAFKA-231F20.svg?&style=flat&logo=apache-kafka&logoColor=white)&nbsp;\
+  ![Kafka](https://img.shields.io/badge/APACHA%20KAFKA-231F20.svg?&style=flat&logo=apache-kafka&logoColor=white)&nbsp;
+  ![Elasticsearch](https://img.shields.io/badge/ELASTICSEARCH-005571.svg?&style=flat&logo=elasticsearch&logoColor=white)&nbsp; 
+  ![Postgres](https://img.shields.io/badge/POSTGRES-%23316192.svg?&style=flat&logo=postgresql&logoColor=white)&nbsp; \
+  ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=flat&logo=c&logoColor=black)&nbsp;
+  ![CPP](https://img.shields.io/badge/C++-00599C.svg?&style=flat&logo=c%2B%2B&logoColor=white)&nbsp;
+  ![Unreal Engine](https://img.shields.io/badge/UNREAL%20ENGINE%205-0E1128.svg?&style=flat&logo=unrealengine&logoColor=white)&nbsp;
+
+
 </details>
 
- <details>
-  <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
-  <br/>
-    <p align="center">
-        <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=Beny-Maleki&hide_border=true&theme=nightowl" />
-    </p>
-    <p align="center">
-        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Beny-Maleki&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beny-Maleki&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
-    </p>
-</details> 
 
 <hr/>
 
