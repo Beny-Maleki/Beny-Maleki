@@ -32,19 +32,19 @@ rect.headerRect:hover {
 .wave {
   animation: wave 3s linear;
   animation-iteration-count:infinite;
-  fill: #4447e3;  
+  fill: #4E2A84;  
 }
 
 .wave:hover {
-  fill: #5457ff;
+  fill: #4E2A84;
 }
 
 .drop:hover {
-  fill: #C9FFE5;
+  fill: #4E2A84;
 }
 
 .drop {
-  fill: #4447e3;
+  fill: #4E2A84;
   xfill: #99000055;
   animation: drop 8.2s linear infinite normal;
   stroke: #4447e3;
@@ -177,7 +177,7 @@ g.typingUnderline rect {
     <use id="wave1" class="wave" xlink:href="#wave" x="0" y="1" />
   </g>  
 
-<rect class="headerRect" width="90" height="7.3" rx="1" x="12" y="16.8"/>
+<rect class="headerRect" width="90" height="6" rx="1" x="12" y="16.8"/>
 
 <path id="nameTyping">
   <animate attributeName="d" from="m28,-6 h0" to="m28,-6 h100" dur="9.4s" begin="0s" fill="freeze"/>
