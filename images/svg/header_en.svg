@@ -36,7 +36,7 @@ rect.headerRect:hover {
 }
 
 .wave:hover {
-  fill: #4E2A84;
+  fill: #4E2A94;
 }
 
 .drop:hover {
