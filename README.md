@@ -2,11 +2,11 @@
 
 ### :space_invader: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently Studying B.Sc. in Computer Engineering at [Sharif University of Technology](https://en.sharif.ir/). \
-&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for science and innovation.\
-&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate with problem solving.\
-&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Researching to create more intelligent AI systems.\
-&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Experience of software development both as a back-end and a front-end developer at [Smartech](https://smartech.ir/en).
+&nbsp;&nbsp;&nbsp; :technologist: &nbsp;Currently Studying B.Sc. in Computer Engineering at [Sharif University of Technology](https://en.sharif.ir/). \
+&nbsp;&nbsp;&nbsp; :seedling: &nbsp;Love for science and innovation.\
+&nbsp;&nbsp;&nbsp; :heartbeat: &nbsp;Passionate with problem solving.\
+&nbsp;&nbsp;&nbsp; :writing_hand: &nbsp;Researching to create more intelligent AI systems.\
+&nbsp;&nbsp;&nbsp; :hammer_and_wrench: &nbsp;Experience of software development both as a back-end and a front-end developer at [Smartech](https://smartech.ir/en).
 
 <p align="center">
   <a href="mailto:benyaminmaleki81@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -77,7 +77,7 @@ blockchain, cryptocurrencies, cryptography, bitcoin, ethereum
   ![Kafka](https://img.shields.io/badge/APACHA%20KAFKA-231F20.svg?&style=flat&logo=apache-kafka&logoColor=white)&nbsp;\
 </details>
 
-<details>
+ <details>
   <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
   <br/>
     <p align="center">
@@ -86,7 +86,7 @@ blockchain, cryptocurrencies, cryptography, bitcoin, ethereum
     <p align="center">
         <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Beny-Maleki&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beny-Maleki&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
     </p>
-</details>
+</details> 
 
 <hr/>
 
