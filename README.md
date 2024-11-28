@@ -20,7 +20,7 @@
 <hr/>
 
 <details>
-  <summary><b>:computer: &nbsp;Research Technical Skills</b></summary>
+  <summary><b>:man_scientist: &nbsp;Research Technical Skills</b></summary>
   <br/>
   
   ![PyTorch](https://img.shields.io/badge/PYTORCH-EE4C2C.svg?&style=flat&logo=pytorch&logoColor=white)&nbsp;
@@ -34,7 +34,7 @@
 </details>
 
 <details>
-  <summary><b>:brain: &nbsp;Other Technical Skills</b></summary>
+  <summary><b> :computer: &nbsp;Other Technical Skills</b></summary>
   <br/>
 
   ![Kotlin](https://img.shields.io/badge/KOTLIN-0095D5.svg?&style=flat&logo=kotlin&logoColor=white)&nbsp;
