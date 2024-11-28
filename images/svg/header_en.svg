@@ -117,17 +117,20 @@ rect.headerRect:hover {
   }
 }
 @keyframes underline_move {
+  from {
+    transform: translateX(+20);
+  }
   to {
-    transform: translateX(-42);
-  }}
+    transform: translateX(-50px);  /* Moving right instead of left */
+  }
+}
 
 g.typingUnderline rect {
    animation: 
     blink 0.5s infinite, 
-    underline_move 4s steps(26, end) forwards;
+    underline_move 4s steps(24, end) forwards;
 }
 </style>
-
 
 
  <defs> 
@@ -187,13 +190,13 @@ g.typingUnderline rect {
   </textPath>
 </text>
 
-<g class="typingUnderline">
-  <rect fill="#FFFFFF" x="65" y="20.5" width="2.5" height="0.4" xlink:href="#underlineTyping">
-      <animate attributeName="visible" from="hidden" to="visible" dur="1s" fill="freeze"/>
+<!-- <g class="typingUnderline">
+  <rect fill="#FFFFFF" x="69" y="20.5" width="2.5" height="0.4" xlink:href="#typingUndeline">
+      <animate attributeName="visibility" from="hidden" to="visible" dur="1s" fill="freeze"/>
   </rect>
-</g>
+</g> -->
 
-<path id="descriptionTyping">
+<!-- <path id="descriptionTyping">
   <animate attributeName="d" from="m30,-3 h0" to="m30,-3 h100" 
            dur="5.8s" begin="0s" fill="freeze"/>
 </path>
@@ -203,7 +206,7 @@ g.typingUnderline rect {
   <textPath xlink:href="#descriptionTyping" >
       Pragmatism and Problem Solving.
   </textPath>
-</text>
+</text> -->
 
 <text x="2" y="12" font-family="Helvetica" font-size=".22em" 
       fill="#AAA" font-weight="bold"> 
