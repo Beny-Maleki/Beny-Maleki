@@ -55,7 +55,7 @@
   ![Redis](https://img.shields.io/badge/REDIS-DC382D.svg?&style=flat&logo=redis&logoColor=white)&nbsp;
   ![Kafka](https://img.shields.io/badge/APACHA%20KAFKA-231F20.svg?&style=flat&logo=apache-kafka&logoColor=white)&nbsp;
   ![Elasticsearch](https://img.shields.io/badge/ELASTICSEARCH-005571.svg?&style=flat&logo=elasticsearch&logoColor=white)&nbsp; 
-  ![Postgres](https://img.shields.io/badge/POSTGRES-%23316192.svg?&style=flat&logo=postgresql&logoColor=white)&nbsp; \
+  ![Postgres](https://img.shields.io/badge/POSTGRES-%23316192.svg?&style=flat&logo=postgresql&logoColor=white)&nbsp; 
 
 
 </details>
