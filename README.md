@@ -65,7 +65,13 @@
 
 <hr/>
 
-<p align="right">
-<img src="https://komarev.com/ghpvc/?username=Beny-Maleki&style=plastic&label=Views"><img>
+<div>
+<div align="left">
+  This profile is adapted from <a href="https://github.com/brunotacca/brunotacca"> here </a>
+</div>
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=Beny-Maleki&style=plastic&label=Views"><img>
 <img src="https://badges.pufler.dev/visits/Beny-maleki/Beny-Maleki?color=black&logo=github" />
-</p>
+</div>
+</div>
+
