@@ -50,12 +50,12 @@
   ![Git](https://img.shields.io/badge/GIT-%23F05033.svg?&style=flat&logo=git&logoColor=white)&nbsp;
   ![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white)&nbsp;
   ![GitLab](https://img.shields.io/badge/GITLAB-%23181717.svg?&style=flat&logo=gitlab&logoColor=white)&nbsp;
-  ![Docker](https://img.shields.io/badge/DOCKER-2496ED.svg?&style=flat&logo=docker&logoColor=white)&nbsp;\
+  ![Docker](https://img.shields.io/badge/DOCKER-2496ED.svg?&style=flat&logo=docker&logoColor=white)&nbsp;
+  ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=flat&logo=c&logoColor=black)&nbsp;\
   ![Redis](https://img.shields.io/badge/REDIS-DC382D.svg?&style=flat&logo=redis&logoColor=white)&nbsp;
   ![Kafka](https://img.shields.io/badge/APACHA%20KAFKA-231F20.svg?&style=flat&logo=apache-kafka&logoColor=white)&nbsp;
   ![Elasticsearch](https://img.shields.io/badge/ELASTICSEARCH-005571.svg?&style=flat&logo=elasticsearch&logoColor=white)&nbsp; 
   ![Postgres](https://img.shields.io/badge/POSTGRES-%23316192.svg?&style=flat&logo=postgresql&logoColor=white)&nbsp; \
-  ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=flat&logo=c&logoColor=black)&nbsp;
 
 
 </details>
