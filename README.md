@@ -56,8 +56,6 @@
   ![Elasticsearch](https://img.shields.io/badge/ELASTICSEARCH-005571.svg?&style=flat&logo=elasticsearch&logoColor=white)&nbsp; 
   ![Postgres](https://img.shields.io/badge/POSTGRES-%23316192.svg?&style=flat&logo=postgresql&logoColor=white)&nbsp; \
   ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=flat&logo=c&logoColor=black)&nbsp;
-  ![CPP](https://img.shields.io/badge/C++-00599C.svg?&style=flat&logo=c%2B%2B&logoColor=white)&nbsp;
-  ![Unreal Engine](https://img.shields.io/badge/UNREAL%20ENGINE%205-0E1128.svg?&style=flat&logo=unrealengine&logoColor=white)&nbsp;
 
 
 </details>
