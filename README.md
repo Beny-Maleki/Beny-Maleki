@@ -4,8 +4,8 @@
 
 &nbsp;&nbsp;&nbsp; :technologist: &nbsp;Currently Studying B.Sc. in Computer Engineering @ [Sharif University of Technology](https://en.sharif.ir/). \
 &nbsp;&nbsp;&nbsp; :purple_heart: &nbsp;Love for Science, Innovation and Problem Solving.\
-&nbsp;&nbsp;&nbsp; :robot: &nbsp;Interested in Anthropomorphically Intelligent Agents.\
-&nbsp;&nbsp;&nbsp; :hammer_and_wrench: &nbsp;Experience of Software Development; Back-end \& Front-end @ [Smartech](https://smartech.ir/en).
+&nbsp;&nbsp;&nbsp; :hammer_and_wrench: &nbsp;Software Development Experience; Back-end \& Front-end @ [Smartech](https://smartech.ir/en). \
+&nbsp;&nbsp;&nbsp; :robot: &nbsp;Interested in Anthropomorphically Intelligent Agents.
 
 <p align="center">
   <a href="mailto:benyaminmaleki81@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
