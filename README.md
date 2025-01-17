@@ -20,7 +20,7 @@
 <hr/>
 
 <details>
-  <summary><b>:man_scientist: &nbsp;Research Technical Skills</b></summary>
+  <summary><b>:man_scientist: &nbsp;Machine Learning Technical Skills</b></summary>
   <br/>
   
   ![PyTorch](https://img.shields.io/badge/PYTORCH-EE4C2C.svg?&style=flat&logo=pytorch&logoColor=white)&nbsp;
