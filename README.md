@@ -34,7 +34,7 @@
 </details>
 
 <details>
-  <summary><b> :computer: &nbsp;Other Technical Skills</b></summary>
+  <summary><b> :computer: &nbsp;Software Development Technical Skills</b></summary>
   <br/>
 
   ![Kotlin](https://img.shields.io/badge/KOTLIN-0095D5.svg?&style=flat&logo=kotlin&logoColor=white)&nbsp;
